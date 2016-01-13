@@ -1,7 +1,7 @@
 {
   "name": "react-youtube-search",
   "version": "1.0.0",
-  "description": "Simple youtube search app with React and Babel support",
+  "description": "Simple youtube search app with React, Webpack and Babel support",
   "main": "bundle.js",
   "scripts": {
     "prestart": "npm run task",
